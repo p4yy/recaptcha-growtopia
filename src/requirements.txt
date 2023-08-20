@@ -1,0 +1,5 @@
+fire
+requests
+PySocks
+urllib3
+anticaptchaofficial
