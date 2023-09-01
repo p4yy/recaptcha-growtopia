@@ -1,5 +1,7 @@
 fire
 requests
 PySocks
-urllib3
+logging
 anticaptchaofficial
+capmonster_python
+capsolver_api
