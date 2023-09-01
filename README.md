@@ -1,6 +1,6 @@
 # Growtopia AAP Recaptcha
 
-Automate the process of creating guest accounts in Growtopia or solving the AAP (Account Authentication Process) using an Outlook email address with the assistance of capsolver, capmonster, or anticaptcha services.
+Automate the process of creating guest accounts in Growtopia or solving the AAP (Advanced Account Protection) using an Outlook email address with the assistance of capsolver, capmonster, or anticaptcha services.
 
 ## How to Use
 1. Install the required dependencies:
@@ -9,6 +9,7 @@ Automate the process of creating guest accounts in Growtopia or solving the AAP 
    ```
 
 2. Execute the script with the following commands:
+
    Guest:
    ```shell
    python main.py --task="guest" --use_capsolver=True --api_key="API_KEY" --url_guest="URL_GUEST"
