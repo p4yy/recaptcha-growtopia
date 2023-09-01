@@ -1,6 +1,5 @@
 # recaptcha growtopia
 # aap growtopia
-# discord.gg/payy
 
 import fire
 import re
